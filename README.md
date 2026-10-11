@@ -6,9 +6,9 @@ There is no code here. The conversation lives in **[Discussions](https://github.
 
 ## How to take part
 
-- **Objections** — your sharpest one is the most welcome. Post it under **General**, and say which page it is about. A good objection that sits here in the open, beside the text, under your name, is the point of this space.
+- **Objections** — your sharpest one is the most welcome. Post it under **Objections**, and say which page it is about. A good objection that sits here in the open, beside the text, under your name, is the point of this space.
 - **Questions** — under **Q&A**.
-- **Elsewhere in the graph** — a node, a link or a tradition the pages leave out, under **Ideas**.
+- **Elsewhere in the graph** — a node, a link or a tradition the pages leave out, under **Elsewhere in the graph**.
 
 Readers are encouraged to answer one another. You do not need the author's permission to disagree with him, or with each other.
 
