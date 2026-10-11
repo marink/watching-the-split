@@ -14,6 +14,6 @@ Readers are encouraged to answer one another. You do not need the author's permi
 
 ## What to expect
 
-The author reads what arrives. Replies are not promised. These pages were published this way, rather than through peer review, to invite more scrutiny without a verdict; the discussion is that scrutiny, in public.
+The author reads what arrives. Replies are not promised. This writing was published this way, rather than through peer review, to invite more scrutiny without a verdict; the discussion is that scrutiny, in public.
 
 Please read the [code of conduct](CODE_OF_CONDUCT.md) before posting.
